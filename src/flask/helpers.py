@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
     flask.helpers
-    ~~~~~~~~~~~~~
+    ~~~~~~~~~~~~
 
     Implements various helpers.
 
@@ -15,7 +15,6 @@ import pkgutil
 import posixpath
 import socket
 import sys
-import unicodedata
 from functools import update_wrapper
 from threading import RLock
 from time import time
